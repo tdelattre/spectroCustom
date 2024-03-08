@@ -1,3 +1,48 @@
+# ______________________________________________________________________________________ 
+# ______________________________________________________________________________________ 
+# ______________________________________________________________________________________ 
+# |                                                                                    |
+# |          SCRIPT WRITTEN BY THOMAS DELATTRE thomas.delattre@inrae.fr| 
+# | "99.9% based on Joshua Flickinger's amazing work available here :   "              |
+# | https://rug.mnhn.fr/seewave/spec.html                                             |
+# |                              ----------------                                      | 
+# |                              LICENCE CC-BY-SA                                      | 
+# |                              ----------------                                      |
+# | This license lets others remix, adapt, and build upon your work even for           |
+# | commercial purposes, as long as they credit you and license their new creations    |
+# | under the identical terms.                                                         |
+# |                                                                                    |
+# | The proposed code has a purely academic purpose, is valid under the conditions     |
+# | of use of the scientific project for which it was funded and at the date of        |
+# | acceptance of the article presenting the code. As with any research work, the      |
+# | code is not free of possible errors, approximations, sub-optimisations or          |
+# | defects in monitoring dependencies between libraries of the program.               |
+# |                                                                                    |
+# ______________________________________________________________________________________ 
+# |                                                                                    |
+# | Cette licence permet à d'autres personnes de remixer, d'adapter et de              |
+# | développer ce travail, même à des fins commerciales, à condition qu'elles          |
+# | créditent l'auteur et accordent une licence pour leurs nouvelles créations aux     |
+# | mêmes conditions.                                                                  |
+# |                                                                                    |
+# | Le code proposé a une visée purement académique, est valable dans les conditions   |
+# | d'utilisation du projet scientifique pour lequel il a été financé et à la date de  |
+# | d'acceptation de l'article de présentation du code.                                |
+# | Comme tout travail de recherche, le code n'est pas exempt d'éventuelles erreurs,   |
+# | approximations, sous-optimisations ou défauts de suivi des dépendances entre       |
+# | sous-éléments du programme.                                                        |
+# ______________________________________________________________________________________ 
+# Objectif du script : 
+# The script takes a Wave R object (created by readWave function) and gives 
+# a nice and contrasted spectrogram of your recording. 
+# Please be aware that long and high-frequency recordings can take a lot of 
+# time to show up.
+# --------------------------------------------
+# Changelog : 
+# V1 = initial commit
+# --------------------------------------------
+
+
 spectroCustom = function (sourceWav) {
 
 
