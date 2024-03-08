@@ -7,4 +7,4 @@ The script takes a Wave R object (create by readWave function) and gives a nice 
 
 https://github.com/[tdelattre]/[spectroCustom]/[10521C838E00_2022-05-26_04%3A07%3A25.wav_Pouillot%20fitis.png]raw=true
 
-![alt text](http://url/to/img.png)
+![alt text]([http://url/to/img.png](https://github.com/tdelattre/spectroCustom/blob/main/10521C838E00_2022-05-26_04%3A07%3A25.wav_Pouillot%20fitis.png)https://github.com/tdelattre/spectroCustom/blob/main/10521C838E00_2022-05-26_04%3A07%3A25.wav_Pouillot%20fitis.png)
