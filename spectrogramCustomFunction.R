@@ -2,9 +2,9 @@
 # ______________________________________________________________________________________ 
 # ______________________________________________________________________________________ 
 # |                                                                                    |
-# |          SCRIPT WRITTEN BY THOMAS DELATTRE thomas.delattre@inrae.fr| 
+# |          SCRIPT WRITTEN BY THOMAS DELATTRE thomas.delattre@inrae.fr                | 
 # | "99.9% based on Joshua Flickinger's amazing work available here :   "              |
-# | https://rug.mnhn.fr/seewave/spec.html                                             |
+# | https://rug.mnhn.fr/seewave/spec.html                                              |
 # |                              ----------------                                      | 
 # |                              LICENCE CC-BY-SA                                      | 
 # |                              ----------------                                      |
@@ -17,7 +17,8 @@
 # | acceptance of the article presenting the code. As with any research work, the      |
 # | code is not free of possible errors, approximations, sub-optimisations or          |
 # | defects in monitoring dependencies between libraries of the program.               |
-# |                                                                                    |
+# | Coding takes time! Please consider crediting the author.s and maybe include them   |
+# | in your co-authorship if the code helped you.                                      | 
 # ______________________________________________________________________________________ 
 # |                                                                                    |
 # | Cette licence permet à d'autres personnes de remixer, d'adapter et de              |
@@ -31,6 +32,8 @@
 # | Comme tout travail de recherche, le code n'est pas exempt d'éventuelles erreurs,   |
 # | approximations, sous-optimisations ou défauts de suivi des dépendances entre       |
 # | sous-éléments du programme.                                                        |
+# | Coder prends du temps ! SVP, créditez les auteurs de code dans vos publications et |
+# | envisagez de les inclure dans les listes d'auteur.ices si ce code vous aide        |
 # ______________________________________________________________________________________ 
 # Objectif du script : 
 # The script takes a Wave R object (created by readWave function) and gives 
