@@ -8,3 +8,10 @@ The script takes a Wave R object (created by readWave function) and gives a nice
 Who's that below ?
 
 ![Screenshot](10521C838E00_2022-05-26_04%3A07%3A25.wav_Pouillot%20fitis.png)
+(that's Phylloscopus trochilus)
+
+# Usage : 
+```
+source(path_to_function.r)
+spectroCustom(wav object loaded via readWav for example)
+```
